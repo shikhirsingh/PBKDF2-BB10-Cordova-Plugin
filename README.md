@@ -25,7 +25,10 @@ The sample code for this application is Open Source under the [Apache 2.0 Licens
 
 **How to install this extension**
 
-In command prompt while in your Cordova/WebWorks project directory, type: cordova plugin add <path to the /plugin/ directory>
+In command prompt while in your Cordova/WebWorks project directory, type: 
+```
+cordova plugin add <path to the /plugin/ directory>
+```
 
 **How to Build SMS for BB10 Cordova**
 
