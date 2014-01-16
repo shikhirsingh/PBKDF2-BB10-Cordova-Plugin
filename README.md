@@ -1,4 +1,4 @@
-# [PBKDF2](http://en.wikipedia.org/wiki/PBKDF2) - PBKDF2 for BB10 Cordova / Webworks
+# PBKDF2 for BB10 Cordova / Webworks
 
 This Cordova/WebWorks plugin allows an app to hash a password using [PBKDF2](http://en.wikipedia.org/wiki/PBKDF2) for storage in a 
 FAST manner. PBKDF2 is a [Key Derivation Function](http://en.wikipedia.org/wiki/Key_derivation_function) used for [securing passwords](https://crackstation.net/hashing-security.htm). 
