@@ -1,0 +1,1 @@
+{"prepare_queue":{"installed":[],"uninstalled":[]},"config_munge":{"www/config.xml":{"/widget":{"<feature name=\"community.PasswordCrypto\" value=\"community.PasswordCrypto\" />":1}}},"installed_plugins":{"community.PasswordCrypto":{"PACKAGE_NAME":"community.PasswordCrypto.Demo"}},"dependent_plugins":{}}
