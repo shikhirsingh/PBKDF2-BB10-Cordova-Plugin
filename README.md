@@ -36,10 +36,7 @@ cordova plugin add <path to the /plugin/ directory>
 
 Assumption: You have installed the BlackBerry Native SDK 2.0+, and BlackBerry Webworks 2.0+
 
-1. Simply import the NDK_project directory into a workspace in your NDK. Build the project. 
-2. After building the NDK Project, copy the contents of the NDK_project directory into plugin/src/blackberry10/native - Here is the command: cp -R NDK_project/ plugin/src/blackberry10/native 
-3. Go to the SMSPlugin-DemoApp directory, then add the plugin using the following command: cordova plugin add ../plugin/
-4. Now you can build the project using : cordova build --release --keystorepass YOUR_PASSWORD_GOES_HERE -buildId 1 
+- Simply import the plugin/src/blackberry10/native directory into a workspace in your NDK. Build the project.
 
 **Usage**
 
